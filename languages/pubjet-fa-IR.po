@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pubjet | پاب‌جت\n"
+"POT-Creation-Date: 2024-08-28 13:45+0330\n"
+"PO-Revision-Date: 2024-09-01 09:06+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pubjet.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:862
+msgid "Backlink not found"
+msgstr "بک لینک پیدا نشد"
+
+#: includes/functions.php:863
+msgid "Horizontal"
+msgstr "افقی"
+
+#: includes/functions.php:864
+msgid "Vertical"
+msgstr "عمودی"
+
+#: includes/functions.php:865
+msgid "Process Data By Query String"
+msgstr "پردازش اطلاعات با Query String"
+
+#: includes/functions.php:866
+msgid ""
+"By default, Pabjet uses the REST method to process information. If for any "
+"reason this method does not work and you want to use the old method of data "
+"processing, enable this option"
+msgstr ""
+"در حال پیشفرض پابجت از روش REST برای پردازش اطلاعات استفاده می کند. اگر به هر "
+"دلیلی این روش کار نمی کند و می خواهید از روش ًQuery String برای پردازش اطلاعات "
+"استفاده کنید، این گزینه را فعال کنید"
+
+#: includes/functions.php:867
+msgid "Style"
+msgstr "استایل"
+
+#: includes/functions.php:868
+msgid "Backlinks"
+msgstr "بک لینک"
+
+#: includes/functions.php:869
+msgid "All Backlinks"
+msgstr "همه موارد"
+
+#: includes/functions.php:870
+msgid "Footer Inner"
+msgstr "فوتر صفحات داخلی"
+
+#: includes/functions.php:871
+msgid "Footer Main"
+msgstr "فوتر صفحه اصلی"
+
+#: includes/functions.php:872
+msgid "Footer All"
+msgstr "فوتر همه صفحات"
+
+#: includes/functions.php:873
+msgid "Sidebar Inner"
+msgstr "سایدبار صفحات داخلی"
+
+#: includes/functions.php:874
+msgid "Sidebar Main"
+msgstr "سایدبار صفحه اصلی"
+
+#: includes/functions.php:875
+msgid "Sidebar All"
+msgstr "سایدبار همه صفحات"
+
+#: includes/functions.php:876
+msgid "Header Inner"
+msgstr "هدر صفحات داخلی"
+
+#: includes/functions.php:877
+msgid "Header Main"
+msgstr "هدر صفحه اصلی"
+
+#: includes/functions.php:878
+msgid "Header All"
+msgstr "هدر همه صفحات"
+
+#: includes/functions.php:879
+msgid "Widget Title"
+msgstr "عنوان ابزارک"
+
+#: includes/functions.php:880
+msgid "Backlinks Position"
+msgstr "موقعیت نمایش"
+
+#: includes/functions.php:881
+msgid "Pubjet Backlinks"
+msgstr "بک لینک پابجت"
+
+#: includes/functions.php:882
+msgid ""
+"Using this widget, you can display backlinks in different parts of your "
+"website"
+msgstr ""
+"با استفاده از این ابزارک شما می توانید بک لینک های را در قسمت های مختلف وب "
+"سایت خود نمایش دهید"
+
+#: includes/functions.php:883
+msgid "Use Google Translate for English Slug"
+msgstr "انگلیسی کردن آدرس نوشته رپورتاژ با Google Translate"
+
+#: includes/functions.php:884
+msgid ""
+"By default, the URL of the reportage post is generated from the reportage "
+"title in Persian, if you want to use the Google Translate service to English "
+"the slug and the URL, activate this option. Please note that activating this "
+"option will reduce the speed of publishing the reportage."
+msgstr ""
+"به صورت پیشفرض آدرس نوشته رپورتاژ از عنوان رپورتاژ به صورت فارسی تولید می "
+"شود، اگر می خواهید که از سرویس ترجمه گوگل برای انگلیسی کردن اسلاگ و آدرس "
+"نوشته رپورتاژ استفاده کنید این گزینه را فعال کنید. دقت کنید که فعال سازی این "
+"گزینه سرعت انتشار رپورتاژ را کاهش می دهد."
+
+#: includes/functions.php:885
+msgid "Version"
+msgstr "نسخه"
+
+#: includes/functions.php:886
+msgid "Username"
+msgstr "نام کاربری"
+
+#: includes/functions.php:887
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#: includes/functions.php:888
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: includes/functions.php:889
+msgid "Manual Approve"
+msgstr "تایید و انتشار دستی رپورتاژ"
+
+#: includes/functions.php:890
+msgid ""
+"Enable this option if you want to review the reportage manually after review"
+msgstr ""
+"در حالت پیشفرض پابجت رپورتاژ را به صورت لحظه ای در سایت ثبت و منتشر می کند. "
+"اگر می خواهید که وضعیت رپورتاژ پس از ثبت به حالت \"در انتظار\" در بیاید این "
+"گزینه را فعال کنید. در این حالت شما می توانید ابتدا نوشته رپورتاژ را بررسی "
+"کنید و اصلاحات مورد نظر خود را اعمال کنید و در نهایت در سایت منتشر کنید."
+
+#: includes/functions.php:891
+msgid ""
+"This feature is useful when you want to make Pubjet compatible with other "
+"plugins that perform actions on the text menu. By using this feature, users "
+"can easily add specific information and metadata to reports without the need "
+"for fundamental changes in other plugins and benefit from better integration "
+"and coordination between plugins."
+msgstr ""
+"این ویژگی زمانی کاربردی است که می‌خواهید پابجت را با سایر افزونه‌هایی که "
+"عملیاتی روی منوی نوشته‌ها انجام می‌دهند، سازگار کنید. با استفاده از این قابلیت، "
+"کاربران می‌توانند به سادگی و بدون نیاز به تغییرات اساسی در افزونه‌های دیگر، "
+"اطلاعات و متادیتاهای خاصی را به رپورتاژها اضافه کنند و از یکپارچگی و هماهنگی "
+"بهتر بین افزونه‌ها بهره‌مند شوند."
+
+#: includes/functions.php:892
+msgid "Save"
+msgstr "ذخیره کردن"
+
+#: includes/functions.php:893
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/functions.php:894
+msgid "Actions"
+msgstr "عملیات"
+
+#: includes/functions.php:895
+msgid "Key Name"
+msgstr "نام متا کلید"
+
+#: includes/functions.php:896
+msgid "Key Value"
+msgstr "مقدار متا کلید"
+
+#: includes/functions.php:897
+msgid "Defining Custom Metakeys for Posts"
+msgstr "متاکلیدهای سفارشی برای نوشته های رپورتاژ"
+
+#: includes/functions.php:898
+msgid "Add Metakey"
+msgstr "افزودن کلید"
+
+#: includes/functions.php:899
+msgid "Metakeys"
+msgstr "تعریف متا کلید‌ها"
+
+#: includes/functions.php:900
+msgid "Delete First Image"
+msgstr "حذف کردن اولین عکس رپورتاژ"
+
+#: includes/functions.php:901
+msgid "Align Center Images"
+msgstr "وسط چین کردن تصاویر"
+
+#: includes/functions.php:902
+msgid ""
+"If you want all the images in the reports to be displayed in the middle of "
+"the fold, activate this option. Please note that this option is only applied "
+"to reports and other writings are ignored."
+msgstr ""
+"در صورتی که تمایل دارید تمامی تصاویر داخل رپورتاژ ها به صورت وسط چین نمایش "
+"داده شوند این گزینه را فعال کنید. دقت کنید که این گزینه فقط بر روی رپورتاژ ها "
+"اعمال می شود و از سایر نوشته ها صرف نظر می شود."
+
+#: includes/functions.php:903
+msgid "Plan Name"
+msgstr "پلن"
+
+#: includes/functions.php:904
+msgid "Category"
+msgstr "دسته بندی"
+
+#: includes/functions.php:905
+msgid "Pricing Plans"
+msgstr "لیست پلن ها"
+
+#: includes/functions.php:906
+msgid "Plans Categories"
+msgstr "دسته بندی به ازای پلن"
+
+#: includes/functions.php:907
+msgid "Check Token"
+msgstr "بررسی توکن"
+
+#: includes/functions.php:908
+msgid "Default Category"
+msgstr "دسته بندی پیشفرض انتشار"
+
+#: includes/functions.php:909
+msgid "Access Token"
+msgstr "توکن دسترسی تریبون"
+
+#: includes/functions.php:910
+msgid "Congratulations !"
+msgstr "تبریک !"
+
+#: includes/functions.php:911
+msgid "The Access Token is Valid"
+msgstr "توکن دسترسی صحیح است"
+
+#: includes/functions.php:912
+msgid "The Access Token is Invalid"
+msgstr "توکن دسترسی صحیح نیست"
+
+#. Plugin Name of the plugin/theme
+#: includes/functions.php:913
+msgid "Pubjet"
+msgstr "پابجت"
+
+#: includes/functions.php:914
+msgid "Reportage"
+msgstr "رپورتاژ"
+
+#: includes/functions.php:915
+msgid "Enable"
+msgstr "فعال سازی"
+
+#: includes/functions.php:916
+msgid "Disable"
+msgstr "غیرفعال سازی"
+
+#: includes/functions.php:917
+msgid "Copy"
+msgstr "کپی کردن"
+
+#: includes/functions.php:918
+msgid "Copied !"
+msgstr "کپی شد !"
+
+#: includes/functions.php:919
+msgid "Clearing Plugin Data After Deletion"
+msgstr "پاکسازی اطلاعات افزونه پس از حذف"
+
+#: includes/functions.php:920
+msgid "No"
+msgstr "خیر"
+
+#: includes/functions.php:921
+msgid "Yes"
+msgstr "بله"
+
+#: includes/functions.php:922
+msgid "Delete Log"
+msgstr "حذف فایل لاگ"
+
+#: includes/functions.php:923
+msgid "Are you sure to delete the log file?"
+msgstr "آیا از حذف فایل لاگ مطمئن هستید ؟"
+
+#: includes/functions.php:924
+msgid "Refresh"
+msgstr "بارگذاری مجدد"
+
+#: includes/functions.php:925
+msgid "Refresh Data"
+msgstr "بارگذاری مجدد"
+
+#: includes/functions.php:926
+msgid "An error has occurred. Try again"
+msgstr "خطایی رخ داده است. مجددا تلاش کنید"
+
+#: includes/functions.php:927
+msgid "Post not found"
+msgstr "نوشته پیدا نشد"
+
+#: includes/functions.php:928
+msgid "Reportage not found"
+msgstr "رپورتاژ پیدا نشد"
+
+#: includes/functions.php:929
+msgid "Unfortunately, the operation was not done. This post is not a reportage"
+msgstr "متاسفانه عملیات انجام نشد. این نوشته رپورتاژ نیست"
+
+#: includes/functions.php:930
+msgid ""
+"Error deleting file. File deletion access is restricted from the host side"
+msgstr "خطا در حذف فایل. دسترسی حذف فایل از سمت هاست محدود شده است"
+
+#: includes/functions.php:931
+msgid "Some required parameters were not sent with the request"
+msgstr "برخی از پارامترهای الزامی همراه با درخواست ارسال نشده است"
+
+#: includes/functions.php:932
+msgid "You do not have access to perform this operation"
+msgstr "شما دسترسی لازم برای انجام این عملیات را ندارید"
+
+#: includes/functions.php:933
+msgid "Please enter the access token in the pubjet plugin settings menu"
+msgstr "لطفا توکن دسترسی را در منوی تنظیمات افزونه پاب جت وارد کنید"
+
+#: includes/functions.php:934
+msgid "The http request method is wrong"
+msgstr "متد ارسالی درخواست مجاز نیست"
+
+#: includes/functions.php:935
+msgid "The content of the reportage is empty"
+msgstr "محتوای رپورتاژ خالی است"
+
+#: includes/functions.php:936
+msgid "General"
+msgstr "عمومی"
+
+#: includes/functions.php:937
+msgid "Debugging"
+msgstr "خطایابی"
+
+#: includes/functions.php:938
+msgid "Enable Debugging"
+msgstr "فعال سازی حالت خطایابی"
+
+#: includes/functions.php:939
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: includes/functions.php:940
+msgid "Saved !"
+msgstr "ذخیره شد !"
+
+#: includes/functions.php:941
+msgid "Pubjet :: Reportage Data"
+msgstr "پابجت :: اطلاعات رپورتاژ"
+
+#: includes/functions.php:942
+msgid "Pubjet :: Reportage Options"
+msgstr "پابجت :: تنظیمات رپورتاژ"
+
+#: includes/functions.php:943
+msgid "Enable NoFollow Links"
+msgstr "فعال سازی لینک های NoFollow"
+
+#: includes/functions.php:944
+msgid "Please Wait ..."
+msgstr "منتظر بمانید ..."
+
+#: includes/functions.php:945
+msgid "Modules"
+msgstr "ماژول ها"
+
+#: includes/functions.php:946
+msgid "cUrl"
+msgstr ""
+
+#: includes/functions.php:947
+msgid "OpenSSL"
+msgstr ""
+
+#: includes/functions.php:948
+msgid "Required Modules"
+msgstr "ماژول های الزامی"
+
+#: includes/functions.php:949
+msgid ""
+"Pubjet plugin requires the activation of the following modules for its proper "
+"functioning. If any of the following items are not active, ask your hosting "
+"support to activate the inactive items for you."
+msgstr ""
+"افزونه پابجت برای کارکرد صحیح خود نیاز به فعال سازی ماژول های زیر دارد. در "
+"صورتی که هر کدام از موارد زیر فعال نیستند، از پشتیبانی هاست خود بخواهید که "
+"موارد غیر  فعال را برای شما فعال کنند."
+
+#: includes/functions.php:950
+msgid "Check  Now"
+msgstr "بررسی مجدد"
+
+#: includes/functions.php:951
+msgid "Update Settings"
+msgstr "بروزرسانی تنظیمات"
+
+#: includes/functions.php:952
+msgid "Settings saved successfully"
+msgstr "تنظیمات با موفقیت ذخیره شد"
+
+#: includes/functions.php:953
+msgid "Gateway 504 error"
+msgstr ""
+
+#: includes/functions.php:954
+msgid "Pubjet Token"
+msgstr "توکن دسترسی پابجت"
+
+#: includes/functions.php:955
+msgid ""
+"Pubjet plugin needs an access token to work properly. Please enter the access "
+"token in the plugin settings."
+msgstr ""
+"افزونه پابجت  برای کارکرد درست و صحیح خود نیاز به توکن دسترسی دارد. لطفا در "
+"قسمت تنظیمات افزونه توکن دسترسی را وارد کنید."
+
+#: includes/functions.php:956
+msgid "Remindme Later"
+msgstr "بعدا یادآوری کن"
+
+#: includes/functions.php:957
+msgid "Permanent Hide"
+msgstr "دیگر نمایش نده !"
+
+#: includes/functions.php:958
+msgid ""
+"By default, all your categories are sent to Triboon to determine the "
+"reportage category correctly. If you only want the reportage to be published "
+"in certain categories, select them in this section."
+msgstr ""
+"به طور پیش‌فرض، تمامی دسته‌بندی‌های شما برای تعیین صحیح دسته‌بندی رپورتاژ به "
+"تریبون ارسال می‌شوند. اگر تمایل دارید که رپورتاژ تنها در دسته‌بندی‌های خاصی "
+"منتشر شود، لطفاً دسته‌بندی‌های مورد نظر خود را در این بخش انتخاب کنید."
+
+#: includes/functions.php:959
+msgid "Categories"
+msgstr "دسته بندی"
+
+#: includes/functions.php:960
+msgid "Sync Categories"
+msgstr "همگام‌ سازی دسته بندی‌ها"
+
+#: includes/functions.php:961
+msgid "Synchronize"
+msgstr "همگام سازی"
+
+#: includes/functions.php:962
+msgid "Select Reportage Post Author"
+msgstr "انتخاب نویسنده نوشته رپورتاژ"
+
+#: includes/functions.php:963
+msgid ""
+"By default, when Pabjet publishes a reportage on your website, it uses the "
+"account of the site administrator as the author of the reportage, if you want "
+"to use another author, select it."
+msgstr ""
+"به صورت پیشفرض نوشته های رپورتاژ پس از انتشار در سایت دارای نویسنده نیستند، "
+"اگر می خواهید که برای آنها نویسنده ی خاصی را تعیین کنید، آن را در این قسمت "
+"تعیین کنید"
+
+#: pubjet.php:53 pubjet.php:63
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: templates/settings.php:6
+msgid "You must enable JavaScript in your browser to use this section."
+msgstr ""
+"برای تنظیم و استفاده از قابلیت های افزونه پابجت، جاوا اسکریپت را در مرورگر "
+"خود فعال کنید."
+
+#. Description of the plugin/theme
+msgid ""
+"Pubjet is your assistant in publishing advertisement reportage. In fact, "
+"Pubjet allows the automatic publication of reportage."
+msgstr ""
+"پاب‌جت دستیار شما در انتشار رپورتاژ آگهی است. در واقع پاب‌جت امکان انتشار "
+"خودکار رپورتاژ را فراهم می‌آورد"
+
+#. Author of the plugin/theme
+msgid "Triboon"
+msgstr "تریـــبون"
+
+#. Author URI of the plugin/theme
+msgid "https://triboon.net"
+msgstr ""
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#, fuzzy
+#~| msgid "Settings saved successfully"
+#~ msgid "Settings Saved"
+#~ msgstr "تنظیمات با موفقیت ذخیره شد"
+
+#~ msgid "The Access Token is Correct"
+#~ msgstr "توکن دسترسی صحیح است"

@@ -1,0 +1,228 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Pubjet | پاب‌جت\n"
+"POT-Creation-Date: 2024-01-16 12:48+0330\n"
+"PO-Revision-Date: 2024-01-16 12:48+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pubjet.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/functions.php:825
+msgid "Check Token"
+msgstr ""
+
+#: includes/functions.php:826
+msgid "Default Category"
+msgstr ""
+
+#: includes/functions.php:827
+msgid "Access Token"
+msgstr ""
+
+#: includes/functions.php:828
+msgid "Congratulations !"
+msgstr ""
+
+#: includes/functions.php:829
+msgid "The access token is correct"
+msgstr ""
+
+#: includes/functions.php:830
+msgid "The access token is invalid"
+msgstr ""
+
+#: includes/functions.php:831
+msgid "Pubjet"
+msgstr ""
+
+#: includes/functions.php:832
+msgid "Reportage"
+msgstr ""
+
+#: includes/functions.php:833
+msgid "Enable"
+msgstr ""
+
+#: includes/functions.php:834
+msgid "Disable"
+msgstr ""
+
+#: includes/functions.php:835
+msgid "Copy"
+msgstr ""
+
+#: includes/functions.php:836
+msgid "Copied !"
+msgstr ""
+
+#: includes/functions.php:837
+msgid "Clearing Plugin Data After Deletion"
+msgstr ""
+
+#: includes/functions.php:838
+msgid "No"
+msgstr ""
+
+#: includes/functions.php:839
+msgid "Yes"
+msgstr ""
+
+#: includes/functions.php:840
+msgid "Delete Log"
+msgstr ""
+
+#: includes/functions.php:841
+msgid "Are you sure to delete the log file?"
+msgstr ""
+
+#: includes/functions.php:842
+msgid "Refresh"
+msgstr ""
+
+#: includes/functions.php:843
+msgid "Refresh Data"
+msgstr ""
+
+#: includes/functions.php:844
+msgid "An error has occurred. Try again"
+msgstr ""
+
+#: includes/functions.php:845
+msgid "Post not found"
+msgstr ""
+
+#: includes/functions.php:846
+msgid "Reportage not found"
+msgstr ""
+
+#: includes/functions.php:847
+msgid "Unfortunately, the operation was not done. This post is not a reportage"
+msgstr ""
+
+#: includes/functions.php:848
+msgid ""
+"Error deleting file. File deletion access is restricted from the host side"
+msgstr ""
+
+#: includes/functions.php:849
+msgid "Some required parameters were not sent with the request"
+msgstr ""
+
+#: includes/functions.php:850
+msgid "You do not have access to perform this operation"
+msgstr ""
+
+#: includes/functions.php:851
+msgid "Please enter the access token in the pubjet plugin settings menu"
+msgstr ""
+
+#: includes/functions.php:852
+msgid "The http request method is wrong"
+msgstr ""
+
+#: includes/functions.php:853
+msgid "The content of the reportage is empty"
+msgstr ""
+
+#: includes/functions.php:854
+msgid "General"
+msgstr ""
+
+#: includes/functions.php:855
+msgid "Debugging"
+msgstr ""
+
+#: includes/functions.php:856
+msgid "Advanced"
+msgstr ""
+
+#: includes/functions.php:857
+msgid "Saved !"
+msgstr ""
+
+#: includes/functions.php:858
+msgid "Pubjet :: Reportage Data"
+msgstr ""
+
+#: includes/functions.php:859
+msgid "Pubjet :: Reportage Options"
+msgstr ""
+
+#: includes/functions.php:860
+msgid "Enable NoFollow Links"
+msgstr ""
+
+#: includes/functions.php:861
+msgid "Please Wait ..."
+msgstr ""
+
+#: includes/functions.php:862
+msgid "Modules"
+msgstr ""
+
+#: includes/functions.php:863
+msgid "cUrl"
+msgstr ""
+
+#: includes/functions.php:864
+msgid "OpenSSL"
+msgstr ""
+
+#: includes/functions.php:865
+msgid "Required Modules"
+msgstr ""
+
+#: includes/functions.php:866
+msgid ""
+"Pubjet plugin requires the activation of the following modules for its "
+"proper functioning. If any of the following items are not active, ask your "
+"hosting support to activate the inactive items for you."
+msgstr ""
+
+#: includes/functions.php:867
+msgid "Check  Now"
+msgstr ""
+
+#: includes/functions.php:868
+msgid "Update Settings"
+msgstr ""
+
+#: includes/functions.php:869
+msgid "Settings saved successfully"
+msgstr ""
+
+#: pubjet.php:55 pubjet.php:65
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Pubjet | پاب‌جت"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"پاب‌جت دستیار شما در انتشار رپورتاژ آگهی است. در واقع پاب‌جت امکان انتشار "
+"خودکار رپورتاژ را فراهم می‌آورد."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "تریــبــون"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://triboon.net"
+msgstr ""
